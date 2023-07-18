@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Care for poor </title>
+</head>
+    <link rel="stylesheet" href="project_css.css">
+    <body bgcolor: rgb(251, 242, 229);>
+
+        
+        <table style="position: fixed; display: block; text-overflow: hidden; height: 110px; width: 100%; background-color: aliceblue; border-spacing: 10px; margin-top: -8px; margin-left: -8.8px; background-color: rgb(1, 1, 117);">
+            <tr>
+                <td style = "padding: 10px; text-align: center;">
+                    <img src="C:\Users\Compaq\Downloads\icon.jpg" height="70" width="70">
+                    <font color = "white" size = "100px"> Care for Poor </font>
+                </td>
+            </tr>
+        </table>
+
+        <div class="row">
+            <div class="column left" >
+        <table style="position: fixed; display: block; text-overflow: hidden; border : 3px solid rgb(255, 0, 0); height: 375px; background-color: aliceblue;  border-spacing: 10px; margin-top: 115px;">
+            
+            <tr>
+                <th style = "border: 1px solid red; text-align: left; background-color: antiquewhite; ">
+                    <h2><font color = #1a001a> Upcoming Events
+                    </font></h2>
+                </th>
+            </tr>
+
+            <tr>
+                <th class="events">
+                    <marquee direction="up"; scrollamount="2"; onmouseover = "stop()"; onmouseout = "start()">
+                        <a href = "hygiene.html">1st August: Vaccine<br>is a must 
+                        </a>
+                    </marquee></th>
+            </tr>
+            
+            <tr>
+                <th class="events">
+                    <marquee direction="up"; scrollamount="2"; onmouseover = "stop()"; onmouseout = "start()">
+                        <a href = "clothing.html">1st August: Clothing<br> for each being 
+                        </a>
+                    </marquee></th>
+            </tr>
+
+            <tr>
+                <th class="events">
+                    <marquee direction="up"; scrollamount="2"; onmouseover = "stop()"; onmouseout = "start()">
+                        <a href = "food.html">8th August: Food for all 
+                        </a>
+                    </marquee</th>
+            </tr>
+
+            <tr>
+                <th class="events">
+                    <marquee direction="up"; scrollamount="2"; onmouseover = "stop()"; onmouseout = "start()">
+                        <a href = "teach.html">22nd August: Teach all 
+                        </a>
+                    </marquee</th>
+            </tr>
+
+            <tr>
+                <th class="events">
+                    <marquee direction="up"; scrollamount="2"; onmouseover = "stop()"; onmouseout = "start()">
+                        <a href = "hygiene.html">29th August: Hygiene <br>for women 
+                        </a>
+                    </marquee></th>
+            </tr>
+
+            
+
+        </table></div>
+
+        <br><br><br><br><br><br>
+        <div class="column right">
+        
+            <font class="topics"><b>About</b></font><hr width=80%, align="left">
+            <img src= "D:\shivi\NEW FOLDER\pictures\about-us.png" style="float: right;">
+            <font class="description">This is an initiative to bring some positive change in our society. We believe that even small changes can give us huge results. Also people don't really have to do something out of the box to improve the lives of the under priviledged.<br>
+                I
+                Web Development Project Ideas
+            
+            If you are also interested in web development, the best way to upskill in this field is to work on web development projects. The more you practice and experiment with challenging web development projects, the better will be your real-world development skills. Web Development Project Ideas
+            With web development taking off rapidly in the industry, the demand for Web Developers is skyrocketing. In fact, web development has emerged as a promising field right now, attracting aspirants from all educational and professionals backgrounds. 
+        </font>
+            
+            <br><br>
+
+            <marquee onmouseover="stop()" onmouseout="start()" height="250px" width = "1090px" behavior="alternate" scrollamount = "9" bgcolor= "pink">
+                <img src = "D:\shivi\NEW FOLDER\pictures\pic1.jpg" class="picture">
+                <img src = "D:\shivi\NEW FOLDER\pictures\pic2.jpg" class="picture">
+                <img src = "D:\shivi\NEW FOLDER\pictures\pic3.jpg" class="picture">
+                <img src = "D:\shivi\NEW FOLDER\pictures\pic4.jpg" class="picture">
+                <img src = "https://images.unsplash.com/photo-1542810634-71277d95dcbb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9vciUyMGNoaWxkcmVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80" class="picture">
+            </marquee>
+
+            <BR><BR>
+
+            <p align="right"><font class="topics"><b>Ideology</b></font><hr width=80%, align="right">
+            <img src= "D:\shivi\NEW FOLDER\pictures\ideology.jpg" style="float: left;">
+
+            <h3>
+            If you are also interested in web development, the best way to upskill in this field is to work on web development projects. The more you practice and experiment with challenging web development projects, the better will be your real-world development skills. Web Development Project Ideas
+            With web development taking off rapidly in the industry, the demand for Web Developers is skyrocketing. In fact, web development has emerged as a promising field right now, attracting aspirants from all educational and professionals backgrounds. <hr width=80%, align="left">
+
+            If you are also interested in web development, the best way to upskill in this field is to work on web development projects. The more you practice and experiment with challenging web development projects, the better will be your real-world development skills. Web Development Project Ideas
+            With web development taking off rapidly in the industry, the demand for Web Developers is skyrocketing. In fact, web development has emerged as a promising field right now, attracting aspirants from all educational and professionals backgrounds. <br><br><br>
+            </h3>
+            If you are also interested in web development, the best way to upskill in this field is to work on web development projects. The more you practice and experiment with challenging web development projects, the better will be your real-world development skills. Web Development Project Ideas
+            With web development taking off rapidly in the industry, the demand for Web Developers is skyrocketing. In fact, web development has emerged as a promising field right now, attracting aspirants from all educational and professionals backgrounds.<br><br><br>
+            <font style="color: rgb(231, 182, 220);">
+            If you are also interested in web development, the best way to upskill in this field is to work on web development projects. The more you practice and experiment with challenging web development projects, the better will be your real-world development skills.</div></div>
+    </body>
+</html>
